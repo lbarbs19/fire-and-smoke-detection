@@ -1,2 +1,3 @@
 # fire-and-smoke-detection
-Description on website
+All information on website:
+https://huggingface.co/spaces/ankitkupadhyay/fire_and_smoke
