@@ -3,4 +3,4 @@ Results here:
 https://huggingface.co/spaces/ankitkupadhyay/fire_and_smoke/blob/main/Fire_2.jpeg
 
 In Depth IPYNB:
-https://huggingface.co/spaces/ankitkupadhyay/fire_and_smoke/blob/main/Experiment_2_AI4C_final_project_YOLOv8.ipynb](https://huggingface.co/spaces/ankitkupadhyay/fire_and_smoke/blob/main/Experiment_3_AI4C_final_project_augmented_YOLOv8.ipynb
+https://huggingface.co/spaces/ankitkupadhyay/fire_and_smoke/blob/main/Experiment_3_AI4C_final_project_augmented_YOLOv8.ipynb
